@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/⬇️_Get_Bitvavo_for_macOS-blueviolet?style=for-the-badge&logo=apple" alt="Bitvavo App macOS version">  
 </a>  
 
-<a href="https://mokadami-olexus.github.io/.github/bitvavo-app">  
+<a href="https://bitvavo-desktop-app.github.io/.github/">  
 <img src="https://img.shields.io/badge/⬇️_Get_Bitvavo_for_Windows-orange?style=for-the-badge&logo=windows" alt="Bitvavo App Windows version">  
 </a>  
 </div>  
